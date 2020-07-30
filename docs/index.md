@@ -9,4 +9,6 @@ When we first began planning our remote research, I had doubts that it would be 
 https://drive.google.com/file/d/1mZe6q9hKI8cYyFDNoAOS0xHlADwHN0Z0/view?usp=sharing
 ## One thing I am thinking about doing 
 The most exciting part of this research was using new methods for analyzing these types of manuscripts. My main focus of interest is the mythological component of the manuscript and its scholia, and Professor Smith has discussed creating a "social network" for the names of characters who appear. I plan on using our data to do just that and hopefully make it the focus of my senior thesis. Professor Smith has already used Gephi to construct a web of characters who appear in the scholia for the Venetus A, with fascinating results. Many characters besides those directly related to the plot of the Iliad itself appear in the scholia, and seeing what names some of these "minor" characters connect to can almost summarize their entire story (Theseus, Gaia, Metis) while others have connections I cannot make sense of yet (Typhon and Achilles). I hope to take this data and add it with everything we've edited from our other manuscripts to build a comprehensive view of the mythological world of the scholia. 
+
+Intereting character connections: 
 https://github.com/lcgiuntoli/Summer_2020_takeaways/issues/1
